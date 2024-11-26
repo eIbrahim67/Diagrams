@@ -1,1 +1,1 @@
-# Flowise
+# Diagrams
